@@ -1,0 +1,247 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = AdminTemplateDemos
+build_property.RootNamespace = AdminTemplateDemos
+build_property.ProjectDir = d:\GitHub\Team\blazor\AdminTemplateDemos\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\GitHub\Team\blazor\AdminTemplateDemos
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Documentation/ChangelogPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xEb2N1bWVudGF0aW9uXENoYW5nZWxvZ1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/FormPlugins/AdvancedInputsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xGb3JtUGx1Z2luc1xBZHZhbmNlZElucHV0c1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Forms/BasicInputsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xGb3Jtc1xCYXNpY0lucHV0c1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/404Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1w0MDRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/500Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1w1MDBQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/BlankPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1xCbGFua1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/InvoicePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1xJbnZvaWNlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/KnowledgeBasePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1xLbm93bGVkZ2VCYXNlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/PricingPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1xQcmljaW5nUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/ResetPasswordPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1xSZXNldFBhc3N3b3JkUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/SignInPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1xTaWduSW5QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Pages/SignUpPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xQYWdlc1xTaWduVXBQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Analytics/AnalyticsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXEFuYWx5dGljc1xBbmFseXRpY3NQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/ChatPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXENoYXRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Crypto/CryptoPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXENyeXB0b1xDcnlwdG9QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Dashboards/Dashboard1Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXERhc2hib2FyZHNcRGFzaGJvYXJkMVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Dashboards/Dashboard2Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXERhc2hib2FyZHNcRGFzaGJvYXJkMlBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Dashboards/Dashboard3Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXERhc2hib2FyZHNcRGFzaGJvYXJkM1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/ECommerce/ClientsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXEVDb21tZXJjZVxDbGllbnRzUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/ECommerce/ECommerceDetailsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXEVDb21tZXJjZVxFQ29tbWVyY2VEZXRhaWxzUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/ECommerce/ECommerceListPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXEVDb21tZXJjZVxFQ29tbWVyY2VMaXN0UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/ECommerce/ECommercePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXEVDb21tZXJjZVxFQ29tbWVyY2VQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/InboxPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXEluYm94UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Kanban/Tasks2Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXEthbmJhblxUYXNrczJQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Kanban/TasksPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXEthbmJhblxUYXNrc1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Profile/Profile1Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXFByb2ZpbGVcUHJvZmlsZTFQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Profile/Profile2Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXFByb2ZpbGVcUHJvZmlsZTJQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Profile/SocialPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXFByb2ZpbGVcU29jaWFsUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Profile/UsersListPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXFByb2ZpbGVcVXNlcnNMaXN0UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Projects/DetailPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXFByb2plY3RzXERldGFpbFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Projects/ProjectsList1Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXFByb2plY3RzXFByb2plY3RzTGlzdDFQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/SampleApps/Projects/ProjectsList2Page.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xTYW1wbGVBcHBzXFByb2plY3RzXFByb2plY3RzTGlzdDJQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Tables/ColumnSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xUYWJsZXNcQ29sdW1uU2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Tables/MultiSelection.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xUYWJsZXNcTXVsdGlTZWxlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Tables/ResponsiveTable.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xUYWJsZXNcUmVzcG9uc2l2ZVRhYmxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Tables/Tables.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xUYWJsZXNcVGFibGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/Tables/TableWithButtons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xUYWJsZXNcVGFibGVXaXRoQnV0dG9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/ButtonsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXEJ1dHRvbnNQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/CardsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXENhcmRzUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/CarouselPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXENhcm91c2VsUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/ChartsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXENoYXJ0c1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/EmbedVideo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXEVtYmVkVmlkZW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/General.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXEdlbmVyYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/GridLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXEdyaWRMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/Modals.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXE1vZGFscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Pages/PageTemplates/UIElements/Typography.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZVRlbXBsYXRlc1xVSUVsZW1lbnRzXFR5cG9ncmFwaHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Shared/CodeView.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvZGVWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Shared/Example.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4YW1wbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Shared/ToolBar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvb2xCYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lmsf5oa3hs
+
+[d:/GitHub/Team/blazor/AdminTemplateDemos/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gzfludbk57
